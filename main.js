@@ -86,7 +86,6 @@ function cyrillicToAlphabet() {
     var cyrillicText = cyrillicTextarea.value;
     var length = cyrillicText.length;
     var alphabetText = '';
-    alert(length);
     for (var i = 0; i < length; ++i) {
         var c = cyrillicText[i];
         var lowerC = c.toLowerCase();
