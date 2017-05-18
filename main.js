@@ -49,7 +49,7 @@ var cyrillicArray = [
 var alphabetArray = [
     'yu',
     'sh',
-    'ye'
+    'ye',
     'ya',
     'ch',
     'yo',
